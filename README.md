@@ -5,6 +5,8 @@ End-to-end churn prediction pipeline for a mobile wallet platform, built for the
 feature engineering, class imbalance, hyperparameter tuning, and SHAP-based
 explainability, finishing with business-ready recommendations.
 
+Kaggle Link : https://www.kaggle.com/competitions/bkash-presents-nsucec-datathon/overview
+
 **Result:** LightGBM model tuned via Optuna achieving **0.985 AUC** and **0.911
 Precision@10%** on a held-out validation set of ~1 million accounts with a 12.68%
 churn rate.
